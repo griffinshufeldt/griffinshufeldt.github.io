@@ -59,14 +59,6 @@ body {
     transition: opacity 0.5s ease-in-out;
 }
 
-/* Adds dark mode */
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #CCCCCC;
-        color: #ddd;
-    }
-}
-
 h1 {
     font-weight: 400;
     margin-top: 4rem;
