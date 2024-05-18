@@ -483,4 +483,21 @@ nav a {
     width: 500px;
     background-color: #cccc;
     padding: 20px;
+    margin-left: -1px;
+}
+
+.pfp {
+    width: 25%;
+    height: auto;
+    margin-left: 600px;
+    margin-top: -260px;
+}
+
+.flower {
+    width: 55%;
+    height: auto;
+}
+
+#research {
+    width: 800px;
 }
